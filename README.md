@@ -1,0 +1,1 @@
+# Soyabean-Disease-Prediction
